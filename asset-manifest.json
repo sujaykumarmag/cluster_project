@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cluster_project/static/css/main.d07b1934.css",
+    "main.js": "/cluster_project/static/js/main.0c7034d9.js",
+    "index.html": "/cluster_project/index.html",
+    "main.d07b1934.css.map": "/cluster_project/static/css/main.d07b1934.css.map",
+    "main.0c7034d9.js.map": "/cluster_project/static/js/main.0c7034d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07b1934.css",
+    "static/js/main.0c7034d9.js"
+  ]
+}
